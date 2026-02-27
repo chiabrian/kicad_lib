@@ -1,0 +1,14 @@
+ID,Description,Cat,Type,Comment,Voltage,Tolerance,Dielectric,ESR,Footprint,Kicad Symbol,Kicad Footprint,Manufacturer 1,Manufacturer Part Number 1,Manufacturer 2,Manufacturer Part Number 2,LCSC Part Number
+CAP-000001,Cap Cer 1uF 50V 10% X5R 0603,Capacitors,Ceramic,1uF,50V,10%,X5R,-,0603,Device:C,Capacitor_SMD:C_0603_1608Metric,Samsung Electro-Mechanics,CL10A105KB8NNNC,Yageo,-,C15849
+CAP-000002,Cap Cer 470pF 50V 5% C0G 0603,Capacitors,Ceramic,470pF,50V,5%,C0G,-,0603,Device:C,Capacitor_SMD:C_0603_1608Metric,Samsung Electro-Mechanics,CL10C471JB8NNNC,Yageo,-,C27694
+CAP-000003,Cap Cer 0.1uF 50V 10% X7R 0603,Capacitors,Ceramic,0.1uF,50V,10%,X7R,-,0603,Device:C,Capacitor_SMD:C_0603_1608Metric,Samsung Electro-Mechanics,CL10B104KB8NNNC,Yageo,CC0603KRX7R9BB104,C14663
+CAP-000004,Cap Cer 2.2uF 16V 10% X5R 0603,Capacitors,Ceramic,2.2uF,16V,10%,X5R,-,0603,Device:C,Capacitor_SMD:C_0603_1608Metric,Samsung Electro-Mechanics,CL10A225JO8NNNC,Yageo,-,C23630
+CAP-000005,Cap Cer 10uF 10V 10% X5R 0603,Capacitors,Ceramic,10uF,10V,10%,X5R,-,0603,Device:C,Capacitor_SMD:C_0603_1608Metric,Samsung Electro-Mechanics,CL10A106KP8NNNC,Yageo,-,C19702
+CAP-000006,Cap Cer 10uF 25V 10% X5R 0805,Capacitors,Ceramic,10uF,25V,10%,X5R,-,0805,Device:C,Capacitor_SMD:C_0805_2012Metric,Samsung Electro-Mechanics,CL21A106KAYNNNE,Yageo,-,CL15850
+CAP-000007,Cap Cer 4.7uF 16V 10% X5R 0603,Capacitors,Ceramic,4.7uF,16V,10%,X5R,-,0603,Device:C,Capacitor_SMD:C_0603_1608Metric,Samsung Electro-Mechanics,CL10A475KO8NNNC,Yageo,-,C19666
+CAP-000008,Cap Cer 47pF 50V 5% C0G 0603,Capacitors,Ceramic,47pF,50V,5%,C0G,-,0603,Device:C,Capacitor_SMD:C_0603_1608Metric,Samsung Electro-Mechanics,CL10C470JB8NNNC,Yageo,-,C1671
+CAP-000009,Cap Cer 100pF 50V 5% C0G 0603,Capacitors,Ceramic,100pF,50V,5%,C0G,-,0603,Device:C,Capacitor_SMD:C_0603_1608Metric,Samsung Electro-Mechanics,CL10C101JB8NNNC,Yageo,-,C14858
+CAP-000010,Cap Cer 0.01uF 50V 10% X7R 0603,Capacitors,Ceramic,0.01uF,50V,10%,X7R,-,0603,Device:C,Capacitor_SMD:C_0603_1608Metric,Samsung Electro-Mechanics,CL10B103KB8NNNC,Yageo,-,C1589
+CAP-000011,Cap Cer 1000pF 50V 10% X7R 0603,Capacitors,Ceramic,1000pF,50V,10%,X7R,-,0603,Device:C,Capacitor_SMD:C_0603_1608Metric,Samsung Electro-Mechanics,CL10B102KB8NNNC,Yageo,-,C1588
+CAP-000012,Cap Cer 0.033uF 50V 10% X7R 0603,Capacitors,Ceramic,0.033uF,50V,10%,X7R,-,0603,Device:C,Capacitor_SMD:C_0603_1608Metric,Samsung Electro-Mechanics,CL10B333KB8NNNC,Yageo,-,C21117
+CAP-000013,Cap Cer 0.022uF 50V 10% X7R 0603,Capacitors,Ceramic,0.022uF,50V,10%,X7R,-,0603,Device:C,Capacitor_SMD:C_0603_1608Metric,Samsung Electro-Mechanics,CL10B223KB8NNNC,Yageo,-,C21122

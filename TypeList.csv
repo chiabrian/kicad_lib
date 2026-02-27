@@ -1,0 +1,64 @@
+Cat,Cat_Ab,Type,Type_Ab
+Capacitors,Cap,Aluminum,Al
+Capacitors,Cap,Aluminum Polymer,Al Poly
+Capacitors,Cap,Ceramic,Cer
+Capacitors,Cap,PPS,PPS
+Capacitors,Cap,Safety,Safety
+Capacitors,Cap,Tantalum,Tant
+Capacitors,Cap,Tantalum Polymer,Tant Poly
+Circuit Protection,CPD,Fuse,Fuse
+Circuit Protection,CPD,MOV,MOV
+Circuit Protection,CPD,TVS,TVS
+Connectors,Conn,Crimp,Crimp
+Connectors,Conn,FFC,FFC
+Connectors,Conn,Header,HDR
+Connectors,Conn,Plug,Plug
+Connectors,Conn,Receptacle,Receptacle
+Connectors,Conn,Test Point,TP
+Diodes,Dio,LED,LED
+Diodes,Dio,Photo,Photo
+Diodes,Dio,Schottky,Schottky
+Diodes,Dio,Silicon,Silicon
+Diodes,Dio,Zener,Zener
+Integrated Circuits,IC,ADC,ADC
+Integrated Circuits,IC,Analog Switch,ANA SW
+Integrated Circuits,IC,Charger,Charger
+Integrated Circuits,IC,Comparator,Comp
+Integrated Circuits,IC,DAC,DAC
+Integrated Circuits,IC,FPGA,FPGA
+Integrated Circuits,IC,Interface,Interface
+Integrated Circuits,IC,Logic,Logic
+Integrated Circuits,IC,Memory,Mem
+Integrated Circuits,IC,Microcontroller,MCU
+Integrated Circuits,IC,Microprocessor,MPU
+Integrated Circuits,IC,Motor Driver,Driver
+Integrated Circuits,IC,Opamp,Opamp
+Integrated Circuits,IC,Oscillator,OSC
+Integrated Circuits,IC,POT,POT
+Integrated Circuits,IC,Reference,Ref
+Integrated Circuits,IC,Regulator LDO,Reg LDO
+Integrated Circuits,IC,Regulator SW,Reg SW
+Magnetics,Mag,Common Mode Choke,CMC
+Magnetics,Mag,Ferrite Bead,FB
+Magnetics,Mag,Inductor,Ind
+Magnetics,Mag,Transformer,TFMR
+Mechanical,Mech,Hardware,HW
+Mechanical,Mech,Potentiometer,POT
+Mechanical,Mech,Switch,SW
+Mechanical,Mech,Valve,Valve
+Miscellaneous,Misc,Crystal,XTAL
+Miscellaneous,Misc,Module,Mod
+PCB,PCB,Antenna,ANT
+PCB,PCB,Connector,Conn
+PCB,PCB,Fiducial,Fid
+PCB,PCB,Mounting Hole,MH
+PCB,PCB,Test Point,TP
+Resistors,Res,Metal Film,Metal
+Resistors,Res,Thick Film,Thick
+Resistors,Res,Thin Film,Thin
+Sensor,Sen,Flow,Flow
+Sensor,Sen,Phototube,Phototube
+Sensor,Sen,Pressure,Pressure
+Sensor,Sen,Thermistor,Thermistor
+Transistors,Trans,BJT,BJT
+Transistors,Trans,MOSFET,MOSFET

@@ -1,0 +1,5 @@
+ID,Description,Cat,Type,Comment,Current,Voltage,Other,Kicad Symbol,Kicad Footprint,Manufacturer 1,Manufacturer Part Number 1,Manufacturer 2,Manufacturer Part Number 2,LCSC Part Number
+CON-000001,Conn FFC XF2M-4015-1A,Connectors,FFC,XF2M-4015-1A,-,-,-,-,-,-,XF2M-4015-1A,-,-,-
+CON-000002,Conn FFC F32R-1A7H1-11040 BOTTOM,Connectors,FFC,F32R-1A7H1-11040,-,-,BOTTOM,-,Connector_FFC-FPC:Amphenol_F32R-1A7x1-11040_1x40-1MP_P0.5mm_Horizontal,Amphenol,F32R-1A7H1-11040,-,-,-
+CON-000003,Conn FFC XF2M-4015-1A,Connectors,FFC,XF2M-4015-1A,-,-,-,-,-,-,XF2M-4015-1A,-,-,-
+CON-000004,Conn FFC F32R-1A7H1-11040 BOTTOM,Connectors,FFC,F32R-1A7H1-11040,-,-,BOTTOM,-,Connector_FFC-FPC:Amphenol_F32R-1A7x1-11040_1x40-1MP_P0.5mm_Horizontal,Amphenol,F32R-1A7H1-11040,-,-,-

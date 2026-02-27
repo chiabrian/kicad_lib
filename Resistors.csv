@@ -1,0 +1,22 @@
+ID,Description,Cat,Type,Comment,Power,Tolerance,Footprint,Kicad Symbol,Kicad Footprint,Kicad Footprint 2,Manufacturer 1,Manufacturer Part Number 1,Manufacturer 2,Manufacturer Part Number 2,LCSC Part Number
+RES-000001,Res Thick 0 1/10W 1% 0603,Resistors,Thick Film,0,1/10W,1%,0603,Device:R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-,Yageo,RC0603FR-070RL,Uni-Royal,-,C100044
+RES-000002,Res Thick 22 1/10W 1% 0603,Resistors,Thick Film,22,1/10W,1%,0603,Device:R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-,Yageo,RC0603FR-0722RL,Uni-Royal,-,-
+RES-000003,Res Thick 120 1/10W 1% 0603,Resistors,Thick Film,120,1/10W,1%,0603,Device:R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-,Yageo,RC0603FR-07120RL,Uni-Royal,-,-
+RES-000004,Res Thick 200 1/10W 1% 0603,Resistors,Thick Film,200,1/10W,1%,0603,Device:R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-,Yageo,RC0603FR-07120RL,Uni-Royal,-,-
+RES-000005,Res Thick 1k 1/10W 1% 0603,Resistors,Thick Film,1k,1/10W,1%,0603,Device:R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-,Yageo,RC0603FR-071KL,Uni-Royal,-,-
+RES-000006,Res Thick 2.21k 1/10W 1% 0603,Resistors,Thick Film,2.21k,1/10W,1%,0603,Device:R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-,Yageo,RC0603FR-072K21L,Uni-Royal,-,-
+RES-000007,Res Thick 3.32k 1/10W 1% 0603,Resistors,Thick Film,3.32k,1/10W,1%,0603,Device:R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-,Yageo,RC0603FR-073K32L,Uni-Royal,-,-
+RES-000008,Res Thick 5.1k 1/10W 1% 0603,Resistors,Thick Film,5.1k,1/10W,1%,0603,Device:R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-,Yageo,RC0603FR-073K32L,Uni-Royal,-,-
+RES-000009,Res Thick 6.2k 1/10W 1% 0603,Resistors,Thick Film,6.2k,1/10W,1%,0603,Device:R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-,Yageo,RC0603FR-073K32L,Uni-Royal,-,-
+RES-000010,Res Thick 10k 1/10W 1% 0603,Resistors,Thick Film,10k,1/10W,1%,0603,Device:R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-,Yageo,RC0603FR-0710KL,Uni-Royal,-,C98220
+RES-000011,Res Thick 15k 1/10W 1% 0603,Resistors,Thick Film,15k,1/10W,1%,0603,Device:R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-,Yageo,RC0603FR-073K32L,Uni-Royal,-,-
+RES-000012,Res Thick 26k 1/10W 1% 0603,Resistors,Thick Film,26k,1/10W,1%,0603,Device:R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-,Yageo,RC0603FR-073K32L,Uni-Royal,-,-
+RES-000013,Res Thick 39k 1/10W 1% 0603,Resistors,Thick Film,39k,1/10W,1%,0603,Device:R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-,Yageo,RC0603FR-073K32L,Uni-Royal,-,-
+RES-000014,Res Thick 52k 1/10W 1% 0603,Resistors,Thick Film,52k,1/10W,1%,0603,Device:R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-,Yageo,RC0603FR-073K32L,Uni-Royal,-,-
+RES-000015,Res Thick 66k 1/10W 1% 0603,Resistors,Thick Film,66k,1/10W,1%,0603,Device:R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-,Yageo,RC0603FR-073K32L,Uni-Royal,-,-
+RES-000016,Res Thick 82k 1/10W 1% 0603,Resistors,Thick Film,82k,1/10W,1%,0603,Device:R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-,Yageo,RC0603FR-073K32L,Uni-Royal,-,-
+RES-000017,Res Thick 100k 1/10W 1% 0603,Resistors,Thick Film,100k,1/10W,1%,0603,Device:R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-,Yageo,RC0603FR-07100KL,Uni-Royal,-,-
+RES-000018,Res Thick 1Meg 1/10W 1% 0603,Resistors,Thick Film,1Meg,1/10W,1%,0603,Device:R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-,Yageo,RC0603FR-071ML,Uni-Royal,-,-
+RES-000019,Res Thick 330 1/10W 1% 0603,Resistors,Thick Film,330,1/10W,1%,0603,Device:R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-,Yageo,RC0603FR-07330RL,Uni-Royal,-,-
+RES-000020,Res Thick 6.8k 1/10W 1% 0603,Resistors,Thick Film,6.8k,1/10W,1%,0603,Device:R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-,Yageo,RC0603FR-076K8L,Uni-Royal,-,-
+RES-000021,Res Thick 22.1k 1/10W 1% 0603,Resistors,Thick Film,22.1k,1/10W,1%,0603,Device:R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-,Yageo,RC0603FR-0722K1L,Uni-Royal,-,-
