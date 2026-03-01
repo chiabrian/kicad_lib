@@ -305,7 +305,7 @@
 		(uuid "5795ccc8-efb9-443b-8a98-0a852a9ca219")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/Brian/Projects/Personal/KicadLib/3DModels/Amphenol_12402012E212A.stp"
+	(model "../../3DModels/Amphenol_12402012E212A.stp"
 		(offset
 			(xyz 40 0.2 1.7)
 		)

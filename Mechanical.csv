@@ -1,6 +1,6 @@
 ID,Description,Cat,Type,Comment,Current,Voltage,Other,Kicad Symbol,Kicad Footprint,Manufacturer 1,Manufacturer Part Number 1,Manufacturer 2,Manufacturer Part Number 2,LCSC Part Number
-MECH-000001,Mech SW SPDT 30V 0.3A Horizontal,Mechanical,Switch,SPDT,0.3A,30V,Horizontal,Local_Symbols:SW_SPDT_3PIN,Button_Samesky:SW_SPDT_Slide_Samesky_SLW-129956,XKB Connection,SK12D07L4B,C&K,SK-12D07-VG 4 NS PA,C480340
-MECH-000002,Mech SW SP4T 50V 0.3A Horizontal,Mechanical,Switch,SP4T,0.3A,50V,Horizontal,Local_Symbols:SW_SP4T_6PIN,Button_Samesky:SW_SPDT_Slide_Samesky_SLW-147844,XKB Connection,SK14D07L4B,Samesky,SLW-147844-4A-RA-S-D,C480360
+MECH-000001,Mech SW SPDT 30V 0.3A Horizontal,Mechanical,Switch,SPDT,0.3A,30V,Horizontal,Local_Symbols:SW_SPDT_3PIN,Local_Footprints:SW_SPDT_Slide_CK_SK12D07VG4,HanElectricity,SK12D07VG4,C&K,SK-12D07-VG 4 NS PA,C22435621
+MECH-000002,Mech SW SP4T 50V 0.3A Horizontal,Mechanical,Switch,SP4T,0.3A,50V,Horizontal,Local_Symbols:SW_SP4T_6PIN,Local_Footprints:SW_SP4T_Slide_Samesky_SLW-147844,HanElectricity,SK14D07VG4,Samesky,SLW-147844-4A-RA-S-D,C22435626
 MECH-000003,Mech SW Tactile 12V 0.05A Vertical,Mechanical,Switch,Tactile,0.05A,12V,Vertical,Switch:SW_Push,Button_Switch_THT:SW_TH_Tactile_Omron_B3F-106x,HTCL,TC-6610-7-260G,Samesky,TS02-66-70-BK-260-SCR-D,C2845253
 MECH-000004,Mech SW Tactile 12V 0.05A Horizontal,Mechanical,Switch,Tactile,0.05A,12V,Horizontal,Switch:SW_Push,Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx58-2LFS,HTCL,TC-6615-7-260G,Samesky,TS11-674-73-BK-260-RA-D,C2845275
-MECH-000005,Mech Batt 14500 Holder,Mechanical,Battery,14500,-,-,Holder,-,-,Keystone,2460,MPD,BCAAPC,C5370863
+MECH-000005,Mech Batt 14500 Holder,Mechanical,Battery,14500,-,-,Holder,Device:Battery_Cell,Local_Footprints:Battery_Holder_MPD_BCAAPC,Keystone,2460,MPD,BCAAPC,C5370863

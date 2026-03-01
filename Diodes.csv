@@ -1,4 +1,4 @@
-ID,Description,Cat,Type,Comment,VF,Current,VR,trr,Other,Kicad Symbol,Kicad Footprint,Manufacturer 1,Manufacturer Part Number 1,Manufacturer 2,Manufacturer Part Number 2,LCSC Part Number
-DIO-000001,Dio LED Red 2V 20mA 620nm,Diodes,LED,Red,2V,20mA,-,-,620nm,Device:LED,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,Hubei KENTO Elec,KT-0603R,Lite-On,LTST-C190EKT,C2286
-DIO-000002,Dio LED Green 2.7V 20mA 520nm,Diodes,LED,Green,2.7V,20mA,-,-,520nm,Device:LED,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,Hubei KENTO Elec,KT-0603G,Lite-On,LTST-C193TGKT-5A,C12624
-DIO-000003,Dio LED IR 1.2V 100mA 940nm,Diodes,LED,IR,1.2V,100mA,-,-,940nm,Device:LED,LED_THT:LED_D5.0mm_Horizontal_O6.35mm_Z3.0mm,Everlight Elec,IR333C-A,Lite-On,LTE-5208A,C5130
+ID,Description,Cat,Type,Comment,VF,Current,VR,trr,Other,Footprint,Kicad Symbol,Kicad Footprint,Manufacturer 1,Manufacturer Part Number 1,Manufacturer 2,Manufacturer Part Number 2,LCSC Part Number
+DIO-000001,Dio LED Red 2V 20mA 620nm 0603,Diodes,LED,Red,2V,20mA,-,-,620nm,0603,Device:LED,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,Hubei KENTO Elec,KT-0603R,Lite-On,LTST-C190EKT,C2286
+DIO-000002,Dio LED Green 2.7V 20mA 520nm 0603,Diodes,LED,Green,2.7V,20mA,-,-,520nm,0603,Device:LED,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,Hubei KENTO Elec,KT-0603G,Lite-On,LTST-C193TGKT-5A,C12624
+DIO-000003,Dio LED IR 1.2V 100mA 940nm 5mm,Diodes,LED,IR,1.2V,100mA,-,-,940nm,5mm,Device:LED,LED_THT:LED_D5.0mm_Horizontal_O6.35mm_Z3.0mm,Everlight Elec,IR333C-A,Lite-On,LTE-5208A,C5130

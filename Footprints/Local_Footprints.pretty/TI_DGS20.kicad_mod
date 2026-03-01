@@ -371,7 +371,7 @@
 		(uuid "b8456689-855c-4cf3-9f54-0514a56fd7ea")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/Brian/Projects/Personal/KicadLib/3DModels/Texas_Instruments_DGS0020A.stp"
+	(model "../../3DModels/Texas_Instruments_DGS0020A.stp"
 		(offset
 			(xyz 0 0 0)
 		)

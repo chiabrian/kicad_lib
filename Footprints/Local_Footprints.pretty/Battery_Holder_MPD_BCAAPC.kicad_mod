@@ -354,7 +354,7 @@
 		(uuid "55eadf61-3887-46a2-9388-5e1faa0dad21")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/Brian/Projects/Personal/KicadLib/3DModels/Battery_MPD_BCAAPC.STEP"
+	(model "../../3DModels/Battery_MPD_BCAAPC.STEP"
 		(offset
 			(xyz 0 0 0)
 		)
