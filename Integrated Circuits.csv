@@ -1,4 +1,4 @@
-ID,Description,Cat,Type,Comment,Current,Voltage,Other,Footprint,Kicad Symbol,Kicad Footprint,Manufacturer 1,Manufacturer Part Number 1,Manufacturer 2,Manufacturer Part Number 2,LCSC Part Number
+ID,Description,Cat,Type,Comment,Current,Voltage,Other,Package,Kicad Symbol,Kicad Footprint,Manufacturer 1,Manufacturer Part Number 1,Manufacturer 2,Manufacturer Part Number 2,LCSC Part Number
 IC-000001,IC Charger BQ21040 3.5-28V 0.8A Li-Ion 4.2V,Integrated Circuits,Charger,BQ21040,0.8A,3.5-28V,Li-Ion 4.2V,SOT-23-6,Battery_Management:BQ21040DBV,Package_TO_SOT_SMD:SOT-23-6,Texas Instruments,BQ21040DBVR,-,-,C202311
 IC-000002,IC MCU MSPM0L1304 1.62-3.6V 16KB Flash 2KB RAM ,Integrated Circuits,Microcontroller,MSPM0L1304,-,1.62-3.6V,16KB Flash 2KB RAM ,VSSOP-20,Local_Symbols:MSPM0L1304xDGS20,Local_Footprints:TI_DGS20,Texas Instruments,MSPM0L1304TDGS20R,-,-,C22362611
 IC-000003,IC Reg LDO RT9078 1.2-5.5V 300mA 3.3V Low IQ,Integrated Circuits,Regulator LDO,RT9078,300mA,1.2-5.5V,3.3V Low IQ,TSOT-23-5,Regulator_Linear:TLV70033_SOT23-5,Package_TO_SOT_SMD:SOT-23-5,Richtek,RT9078-33GJ5,Texas Instruments,TLV70033DDCR,C110427

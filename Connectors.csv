@@ -1,2 +1,2 @@
-ID,Description,Cat,Type,Comment,Current,Voltage,Other,Kicad Symbol,Kicad Footprint,Manufacturer 1,Manufacturer Part Number 1,Manufacturer 2,Manufacturer Part Number 2,LCSC Part Number
-CON-000001,Conn Receptacle USB C 5A 20V 16 Pin,Connectors,Receptacle,USB C,5A,20V,16 Pin,Connector:USB_C_Receptacle_USB2.0_16P,Local_Footprints:USBC_16P,HCTL,HC-TYPE-C-16P-01A,GCT,USB4105-GF-A,C2894897
+ID,Description,Cat,Type,Comment,Current,Voltage,Other,Package,Kicad Symbol,Kicad Footprint,Manufacturer 1,Manufacturer Part Number 1,Manufacturer 2,Manufacturer Part Number 2,LCSC Part Number
+CON-000001,Conn Receptacle USB C 5A 20V 16 Pin,Connectors,Receptacle,USB C,5A,20V,16 Pin,USBC_16PIN,Connector:USB_C_Receptacle_USB2.0_16P,Local_Footprints:USBC_16P,HCTL,HC-TYPE-C-16P-01A,GCT,USB4105-GF-A,C2894897
