@@ -42,6 +42,7 @@ Magnetics,Mag,Common Mode Choke,CMC
 Magnetics,Mag,Ferrite Bead,FB
 Magnetics,Mag,Inductor,Ind
 Magnetics,Mag,Transformer,TFMR
+Mechanical,Mech,Battery,Batt
 Mechanical,Mech,Hardware,HW
 Mechanical,Mech,Potentiometer,POT
 Mechanical,Mech,Switch,SW

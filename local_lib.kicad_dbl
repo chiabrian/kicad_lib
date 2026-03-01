@@ -76,13 +76,93 @@
         {
             "name": "Capacitors",
             "table": "Capacitors",
-            "key": "Part ID",
+            "key": "ID",
             "symbols": "Symbols",
             "footprints": "Footprints",
             "fields": [
                 {
                     "column": "Comment",
-                    "name": "Comment",
+                    "name": "Value",
+                    "visible_on_add": true,
+                    "visible_in_chooser": false
+                },
+				{
+                    "column": "Type",
+                    "name": "Type",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false
+                },
+				{
+                    "column": "Voltage",
+                    "name": "Voltage",
+                    "visible_on_add": false,
+                    "visible_in_chooser": true
+                },
+				{
+                    "column": "Tolerance",
+                    "name": "Tolerance",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false
+                },
+				{
+                    "column": "Dielectric",
+                    "name": "Dielectric",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false
+                },
+				{
+                    "column": "ESR",
+                    "name": "RSR",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false
+                },
+                {
+                    "column": "Manufacturer 1",
+                    "name": "Manufacturer",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false,
+                    "show_name": true
+                },
+                {
+                    "column": "Manufacturer Part Number 1",
+                    "name": "Manufacturer Part Number 1",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false,
+                    "show_name": true
+                },
+                {
+                    "column": "Manufacturer 2",
+                    "name": "Manufacturer 2",
+                    "visible_on_add": true,
+                    "visible_in_chooser": true
+                },
+                {
+                    "column": "Manufacturer Part Number 2",
+                    "name": "Manufacturer Part Number 2",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false
+                },
+				{
+                    "column": "LCSC Part Number",
+                    "name": "LCSC Part Number",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false
+                }
+            ],
+            "properties": {
+                "description": "Description"
+            }
+        },
+		{
+            "name": "Connectors",
+            "table": "Connectors",
+            "key": "ID",
+            "symbols": "Symbols",
+            "footprints": "Footprints",
+            "fields": [
+                {
+                    "column": "Comment",
+                    "name": "Value",
                     "visible_on_add": true,
                     "visible_in_chooser": true,
 					"show_name": true
