@@ -4,3 +4,4 @@ MECH-000002,Mech SW SP4T 50V 0.3A Horizontal,Mechanical,Switch,SP4T,0.3A,50V,Hor
 MECH-000003,Mech SW Tactile 12V 0.05A Vertical,Mechanical,Switch,Tactile,0.05A,12V,Vertical,SW_6x6MM_4PIN,Switch:SW_Push,Button_Switch_THT:SW_TH_Tactile_Omron_B3F-106x,HTCL,TC-6610-7-260G,Samesky,TS02-66-70-BK-260-SCR-D,C2845253
 MECH-000004,Mech SW Tactile 12V 0.05A Horizontal,Mechanical,Switch,Tactile,0.05A,12V,Horizontal,SW_6x6MM_4PIN_RA,Switch:SW_Push,Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx58-2LFS,HTCL,TC-6615-7-260G,Samesky,TS11-674-73-BK-260-RA-D,C2845275
 MECH-000005,Mech Batt AA Holder,Mechanical,Battery,AA,-,-,Holder,Holder_Battery_AA,Device:Battery_Cell,Local_Footprints:Battery_Holder_MPD_BCAAPC,Keystone,2460,MPD,BCAAPC,C5370863
+MECH-000006,Mech Batt AA SMT Clip,Mechanical,Battery,AA,-,-,SMT Clip,Clip_Battery_AA_SMT,Local_Symbols:Battery_Clip,Local_Footprints:Battery_Clip_Keystone_53,Keystone,53,-,-,C5352788
