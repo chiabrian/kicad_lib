@@ -1,0 +1,3 @@
+ID,Description,Cat,Type,Comment,Current,Tolerance,DCR,Other,Package,Kicad Symbol,Kicad Footprint,Manufacturer 1,Manufacturer Part Number 1,Manufacturer 2,Manufacturer Part Number 2,LCSC Part Number
+IND-000001,Mag Ind 10uH 1.15A 20% 182mOhm Unshielded,Magnetics,Inductor,10uH,1.15A,20%,182mOhm,Unshielded,4.5x4mm,Device:L,Local_Footprints:L_4.5x4.0_H3.2,ZE,CD43-100M,-,-,C18734467
+IND-000002,Mag Ind 22uH 760mA 20% 380mOhm Unshielded,Magnetics,Inductor,22uH,760mA,20%,380mOhm,Unshielded,4.5x4mm,Device:L,Local_Footprints:L_4.5x4.0_H3.2,zoomdo,CD43-220N,-,-,C49230796
