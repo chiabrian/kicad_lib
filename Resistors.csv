@@ -20,3 +20,7 @@ RES-000018,Res Thick 1Meg 1/10W 1% 0603,Resistors,Thick Film,1Meg,1/10W,1%,0603,
 RES-000019,Res Thick 330 1/10W 1% 0603,Resistors,Thick Film,330,1/10W,1%,0603,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-,Yageo,RC0603FR-07330RL,Uni-Royal,-,-
 RES-000020,Res Thick 6.8k 1/10W 1% 0603,Resistors,Thick Film,6.8k,1/10W,1%,0603,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-,Yageo,RC0603FR-076K8L,Uni-Royal,-,-
 RES-000021,Res Thick 22.1k 1/10W 1% 0603,Resistors,Thick Film,22.1k,1/10W,1%,0603,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-,Yageo,RC0603FR-0722K1L,Uni-Royal,-,-
+RES-000022,Res Thick 2k 1/10W 1% 0603,Resistors,Thick Film,2k,1/10W,1%,0603,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-,Yageo,RC0603FR-072K1L,Walsin,WR06x2001FTL,C163892
+RES-000023,Res Thick 1 1/4W 1% 1206,Resistors,Thick Film,1,1/4W,1%,1206,Device:R_US,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,-,Fojan,FRC1206FR1R00TS,-,-,C2907374
+RES-000024,Res Thick 0.5 1/4W 1% 1206,Resistors,Thick Film,0.5,1/4W,1%,1206,Device:R_US,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,-,Changlong,CF1206FN0R5PS,-,-,C52209852
+RES-000025,Res Thick 0.3 1/4W 1% 1206,Resistors,Thick Film,0.3,1/4W,1%,1206,Device:R_US,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,-,Changlong,CF1206FN0R3PS,-,-,C51979005
