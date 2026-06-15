@@ -392,14 +392,14 @@
 			(pin bidirectional line
 				(at -20.32 5.08 0)
 				(length 3.81)
-				(name "BIN2"
+				(name "BIN1"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "10"
+				(number "9"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -410,14 +410,14 @@
 			(pin bidirectional line
 				(at -20.32 2.54 0)
 				(length 3.81)
-				(name "BIN1"
+				(name "BIN2"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "9"
+				(number "10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -507,7 +507,7 @@
 						)
 					)
 				)
-				(number "EP"
+				(number "17"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1916,14 +1916,14 @@
 			(pin bidirectional line
 				(at -20.32 5.08 0)
 				(length 3.81)
-				(name "BIN2"
+				(name "BIN1"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "10"
+				(number "9"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1934,14 +1934,14 @@
 			(pin bidirectional line
 				(at -20.32 2.54 0)
 				(length 3.81)
-				(name "BIN1"
+				(name "BIN2"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "9"
+				(number "10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2031,7 +2031,7 @@
 						)
 					)
 				)
-				(number "EP"
+				(number "17"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2889,7 +2889,7 @@
 						)
 					)
 				)
-				(number "5"
+				(number "6"
 					(effects
 						(font
 							(size 1.27 1.27)
