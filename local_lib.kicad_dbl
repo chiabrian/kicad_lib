@@ -242,84 +242,6 @@
             }
         },
 		{
-            "name": "Mechanical",
-            "table": "Mechanical",
-            "key": "ID",
-            "symbols": "Kicad Symbol",
-            "footprints": "Kicad Footprint",
-            "fields": [
-                {
-                    "column": "Comment",
-                    "name": "Value",
-                    "visible_on_add": true,
-                    "visible_in_chooser": false
-                },
-				{
-                    "column": "Type",
-                    "name": "Type",
-                    "visible_on_add": false,
-                    "visible_in_chooser": false
-                },
-				{
-                    "column": "Current",
-                    "name": "Current",
-                    "visible_on_add": false,
-                    "visible_in_chooser": false
-                },
-				{
-                    "column": "Voltage",
-                    "name": "Voltage",
-                    "visible_on_add": false,
-                    "visible_in_chooser": false
-                },
-				{
-                    "column": "Other",
-                    "name": "Other",
-                    "visible_on_add": false,
-                    "visible_in_chooser": false
-                },
-                {
-                    "column": "Package",
-                    "name": "Package",
-                    "visible_on_add": false,
-                    "visible_in_chooser": false
-                },
-                {
-                    "column": "Manufacturer 1",
-                    "name": "Manufacturer",
-                    "visible_on_add": false,
-                    "visible_in_chooser": false
-                },
-                {
-                    "column": "Manufacturer Part Number 1",
-                    "name": "Manufacturer Part Number 1",
-                    "visible_on_add": false,
-                    "visible_in_chooser": false
-                },
-                {
-                    "column": "Manufacturer 2",
-                    "name": "Manufacturer 2",
-                    "visible_on_add": false,
-                    "visible_in_chooser": false
-                },
-                {
-                    "column": "Manufacturer Part Number 2",
-                    "name": "Manufacturer Part Number 2",
-                    "visible_on_add": false,
-                    "visible_in_chooser": false
-                },
-				{
-                    "column": "LCSC Part Number",
-                    "name": "LCSC Part Number",
-                    "visible_on_add": false,
-                    "visible_in_chooser": false
-                }
-            ],
-            "properties": {
-                "description": "Description"
-            }
-        },
-		{
             "name": "Diodes",
             "table": "Diodes",
             "key": "ID",
@@ -521,6 +443,174 @@
 				{
                     "column": "DCR",
                     "name": "DCR",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false
+                },
+				{
+                    "column": "Other",
+                    "name": "other",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false
+                },
+                {
+                    "column": "Package",
+                    "name": "Package",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false
+                },
+                {
+                    "column": "Manufacturer 1",
+                    "name": "Manufacturer",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false
+                },
+                {
+                    "column": "Manufacturer Part Number 1",
+                    "name": "Manufacturer Part Number 1",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false
+                },
+                {
+                    "column": "Manufacturer 2",
+                    "name": "Manufacturer 2",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false
+                },
+                {
+                    "column": "Manufacturer Part Number 2",
+                    "name": "Manufacturer Part Number 2",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false
+                },
+				{
+                    "column": "LCSC Part Number",
+                    "name": "LCSC Part Number",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false
+                }
+            ],
+            "properties": {
+                "description": "Description"
+            }
+        },
+		{
+            "name": "Mechanical",
+            "table": "Mechanical",
+            "key": "ID",
+            "symbols": "Kicad Symbol",
+            "footprints": "Kicad Footprint",
+            "fields": [
+                {
+                    "column": "Comment",
+                    "name": "Value",
+                    "visible_on_add": true,
+                    "visible_in_chooser": false
+                },
+				{
+                    "column": "Type",
+                    "name": "Type",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false
+                },
+				{
+                    "column": "Current",
+                    "name": "Current",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false
+                },
+				{
+                    "column": "Voltage",
+                    "name": "Voltage",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false
+                },
+				{
+                    "column": "Other",
+                    "name": "Other",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false
+                },
+                {
+                    "column": "Package",
+                    "name": "Package",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false
+                },
+                {
+                    "column": "Manufacturer 1",
+                    "name": "Manufacturer",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false
+                },
+                {
+                    "column": "Manufacturer Part Number 1",
+                    "name": "Manufacturer Part Number 1",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false
+                },
+                {
+                    "column": "Manufacturer 2",
+                    "name": "Manufacturer 2",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false
+                },
+                {
+                    "column": "Manufacturer Part Number 2",
+                    "name": "Manufacturer Part Number 2",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false
+                },
+				{
+                    "column": "LCSC Part Number",
+                    "name": "LCSC Part Number",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false
+                }
+            ],
+            "properties": {
+                "description": "Description"
+            }
+        },
+        {
+            "name": "Transistors",
+            "table": "Transistors",
+            "key": "ID",
+            "symbols": "Kicad Symbol",
+            "footprints": "Kicad Footprint",
+            "fields": [
+                {
+                    "column": "Comment",
+                    "name": "Value",
+                    "visible_on_add": true,
+                    "visible_in_chooser": false
+                },
+				{
+                    "column": "Type",
+                    "name": "Type",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false
+                },
+				{
+                    "column": "VDS",
+                    "name": "VDS",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false
+                },
+				{
+                    "column": "Current",
+                    "name": "Current",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false
+                },
+				{
+                    "column": "RDSon",
+                    "name": "RDSon",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false
+                },
+				{
+                    "column": "VGS",
+                    "name": "VGS",
                     "visible_on_add": false,
                     "visible_in_chooser": false
                 },

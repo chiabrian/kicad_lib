@@ -1,0 +1,3 @@
+ID,Description,Cat,Type,Comment,VDS,Current,RDSon,VGS,Other,Package,Kicad Symbol,Kicad Footprint,Manufacturer 1,Manufacturer Part Number 1,Manufacturer 2,Manufacturer Part Number 2,LCSC Part Number
+XSTR-000001,Dio LED Red 2V 20mA 620nm,Transistor,FET,MOT3910J,30V,25A,14mOhm,2.5V,Dual NMOS,PDFN3X3-8L,Device:LED,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,MOT,MOT3910J,Diodes Inc,DMT3020LDV-7,C7495159
+XSTR-000002,,Transistor,FET,AONR36368,30V,32A,7.5mOhm,2.1V,NMOS,PDFN3X3-8L,,,MSKSEMI,AONR36368-MS,AOS,AONR36368,
